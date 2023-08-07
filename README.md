@@ -8,7 +8,14 @@ This is my first real python script I've worked on and with the help of CGPT I w
 I created this with the intention of speeding up my HTB enumerations so it's not the most advanced thing ever 
 but it speeds up my workflow.
 
-_**Make sure you have gnome-terminal installed!!**_
+_**Make sure you have gnome-terminal and python installed!!**_
+
+
+<h1>Instructions</h1>
+1. In your terminal type <code>git clone https://github.com/darksixty/autoenum"</code>
+2. Type <code>cd autoenum</code>
+3. Run the script using <code>python main.py</code>
+4. 3 terminals should spawn and begin enumeration!
 
 Let me know if you have any questions!
 
