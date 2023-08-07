@@ -11,3 +11,7 @@ but it speeds up my workflow.
 _**Make sure you have gnome-terminal installed!!**_
 
 Let me know if you have any questions!
+
+![nikto-logo](https://github.com/darksixty/autoenum/assets/81669502/0d74cfe2-6cec-4a25-b3ca-ca3b065402bb)
+![nmap-logo-256x256](https://github.com/darksixty/autoenum/assets/81669502/8ba03483-8d6d-4f6b-8a5b-7f18a9da70d8)
+![gobuster-logo](https://github.com/darksixty/autoenum/assets/81669502/157a84a2-c1ad-4fa7-b2e2-ec6700389c84)
