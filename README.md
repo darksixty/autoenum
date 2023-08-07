@@ -13,7 +13,7 @@ _**Make sure you have gnome-terminal and python installed!!**_
 
 <h1>Instructions</h1>
 &nbsp;
-1. In your terminal type <code>git clone https://github.com/darksixty/autoenum</code>
+<p>1. In your terminal type <code>git clone https://github.com/darksixty/autoenum</code></p>
 &nbsp;
 2. Type <code>cd autoenum</code>
 &nbsp;
