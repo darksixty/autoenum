@@ -15,9 +15,11 @@ _**Make sure you have gnome-terminal and python installed!!**_
 &nbsp;
 <p>1. In your terminal type <code>git clone https://github.com/darksixty/autoenum</code>&nbsp;</p>
 &nbsp;
+&nbsp;
 <p>2. Type <code>cd autoenum</code>&nbsp;</p>
 &nbsp;
 <p>3. Run the script using <code>python main.py</code>&nbsp;</p>
+&nbsp;
 &nbsp;
 <p>4. 3 terminals should spawn and begin enumeration!&nbsp;</p>
 
