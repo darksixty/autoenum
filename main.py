@@ -1,11 +1,16 @@
 import subprocess
 import os
 import getpass
+import sys
 
 def execute_in_terminal(command):
     subprocess.Popen(["gnome-terminal", "--", "bash", "-c", f"{command}; exec bash"])
 
 if __name__ == "__main__":
+    if os.geteuid() != 0:
+        print("Please run this script with 'sudo'.")
+        sys.exit(1)
+
     targetip = input("Enter Target IP address: ")
 
     # Get the sudo password from the user without displaying it in clear text
