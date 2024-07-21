@@ -7,6 +7,7 @@ I created this with the intention of speeding up my HTB enumerations so it's not
 but it speeds up my workflow.
 
 With one command you get a nikto, nmap, and gobuster terminal all working on the IP addres you provide to it!
+Works out of the box with Kali Linux
 
 _**Make sure you have gnome-terminal and python installed!!**_
 
